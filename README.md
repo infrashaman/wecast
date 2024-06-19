@@ -1,6 +1,6 @@
-# Django React CRUD
+# Django React Project WECAST
 
-This is a simple Django React CRUD application.
+This is a advanced Django React Project application.
 
 # Environment variables
 
